@@ -18,4 +18,8 @@ Once the data is fetched using the requests library, it is organized and process
 This project was implemented using the Python programming language in a development environment like Visual Studio Code. The final application runs as a web app using Streamlit, which can be launched locally or deployed online for public access.
 This type of task is especially relevant in real-world applications such as weather monitoring tools, travel apps, or dashboards used by environmental agencies. It is also suitable for academic assignments, data science projects, or portfolio demonstrations where the goal is to showcase API usage, data processing, and visualization skills.
 
+*OUTPUT*:
+
+<img width="1802" height="982" alt="Image" src="https://github.com/user-attachments/assets/766d6c69-f9c0-42a1-a773-1af7e0ccff3e" />
+
 
