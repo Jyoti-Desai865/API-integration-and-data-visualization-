@@ -21,5 +21,5 @@ This type of task is especially relevant in real-world applications such as weat
 *OUTPUT*:
 
 <img width="1802" height="982" alt="Image" src="https://github.com/user-attachments/assets/766d6c69-f9c0-42a1-a773-1af7e0ccff3e" />
-
+<img width="1791" height="959" alt="Image" src="https://github.com/user-attachments/assets/3ba77fc4-d80b-4954-b8a6-6210b1e2af44" />
 
